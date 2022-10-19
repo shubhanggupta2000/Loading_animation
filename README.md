@@ -1,7 +1,7 @@
-# Loading_animation
+# Loading Animation
 
-A simple/basic structure to make a loading animation with RGB background and color change.
-This code has been written from scratch with simple HTML, CSS, and Javascript.
+* A simple/basic structure to make a loading animation with RGB background and color change.
+* This code has been written from scratch with simple HTML, CSS, and Javascript.
 
 
 ## Glimpse
